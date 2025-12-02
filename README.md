@@ -8,6 +8,9 @@ This project runs a lightweight model (qwen3:4b) using ollama and combines opena
 
 and this is just the beggining...
 
+## TODO
+- [ ]  add lipsync for better mouth movements 
+
 ## Setup guide
 
 Download [whisper tiny cpp model](https://huggingface.co/ggerganov/whisper.cpp/blob/main/ggml-tiny.bin) and [whisper-cpp](https://github.com/ggml-org/whisper.cpp/releases).
@@ -51,8 +54,3 @@ Go to powershell and then to your project directory and run. Frontend runs on po
   ./start.ps1   ← in the project directory
 ```
 ![screenshot](ss.png)
-
-
-## TODO
-- [ ]  add lipsync for mouth movements 
-
