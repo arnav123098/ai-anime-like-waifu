@@ -50,6 +50,7 @@ Go to powershell and then to your project directory and run. Frontend runs on po
 ```powershell
   ./start.ps1   ← in the project directory
 ```
+![screenshot](ss.png)
 
 
 ## TODO
