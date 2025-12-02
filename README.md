@@ -6,7 +6,7 @@
 AI WAIFU BROUGHT TO LIFE VER 0 \
 This project runs a lightweight model (qwen3:4b) using ollama and combines openai whisper stt, voicevox tts and pixiv three-vrm in three js to create a lightweight, easy on your pc, your friendly neighborhood ~~spiderman~~ fully locally running ai waifu.
 
-and this is just the beggining...
+and this is just the beginning...
 
 ## TODO
 - [ ]  add lipsync for better mouth movements 
