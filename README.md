@@ -27,10 +27,10 @@ Clone the project.
 Move the whisper folder and voicevox folder into project root and the whisper tiny model in the whisper-models folder as
 
 ```bash
-  project/
-  whisper/          ← whisper.cpp folder
-  whisper-models/   ← put ggml-tiny.bin here
-  voicevox/         ← VOICEVOX engine folder
+  ai-anime-like-waifu/
+    whisper/          ← whisper.cpp folder
+    whisper-models/   ← put ggml-tiny.bin here
+    voicevox/         ← VOICEVOX engine folder
 ```
 
 Install python dependencies
