@@ -17,6 +17,10 @@ Download [whisper tiny cpp model](https://huggingface.co/ggerganov/whisper.cpp/b
 
 Download the [VOICEVOX zip file](https://cevox.hiroshiba.jp).
 
+Download Ollama and pull the model qwen3:4b-instruct-2507-q4_K_M. If you're downloading a different model, update setup.py and modelfile.
+
+Make sure you have a model.vrm file of your vrm model.
+
 Clone the project.
 
 ```bash
