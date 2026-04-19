@@ -9,7 +9,8 @@ This project runs a lightweight model (qwen3:4b) using ollama and combines opena
 and this is just the beginning...
 
 ## TODO
-- [ ]  add lipsync for better mouth movements 
+- [ ]  add lipsync for better mouth movements
+- [ ]  fix no tts generation for too small dialogues in app.py
 
 ## Setup guide
 
