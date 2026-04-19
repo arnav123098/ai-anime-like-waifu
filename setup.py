@@ -1,7 +1,7 @@
-USER_NAME = "Arnav"
+USER_NAME = "User"
 
 # LLM model name for Ollama
-OLLAMA_MODEL = "qW"
+OLLAMA_MODEL = "modelfile-qwen4"
 
 # Voicevox config
 SPEAKER_ID = 20 # 20 for Mochino Kyoko
