@@ -1,5 +1,6 @@
 
-# Anime-like AI Waifu
+# Anime-like AI Waifu 
+### (checkout [sonoro](https://github.com/arnav123098/sonoro), a much bigger upgrade)
 
 ![logo](https://raw.githubusercontent.com/arnav123098/ai-anime-like-waifu/refs/heads/main/frontend/public/favicon.png)
 
